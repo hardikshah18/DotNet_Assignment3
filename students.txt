@@ -1,0 +1,10 @@
+101,John,Doe,20,Male,Mathematics,85
+102,Jane,Smith,19,Female,Physics,78
+103,Michael,Johnson,21,Male,Chemistry,92
+104,Emily,Williams,20,Female,Biology,80
+105,David,Brown,22,Male,Computer Science,88
+106,Sarah,Miller,19,Female,English,75
+107,Alexander,Jones,20,Male,History,82
+108,Olivia,Davis,21,Female,Art,79
+109,William,Wilson,20,Male,Geography,90
+110,Sophia,Martin,19,Female,Economics,85
